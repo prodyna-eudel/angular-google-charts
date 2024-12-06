@@ -23,6 +23,7 @@ jobs:
       - run: npm ci --legacy-peer-deps
       - run: npm link --legacy-peer-deps @angular/cli
       - run: ng build angular-google-charts --configuration production
+      - run: cp .npmrc dist/angular-google-charts
       - working-directory: ./dist/angular-google-charts
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
