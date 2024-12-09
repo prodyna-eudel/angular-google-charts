@@ -9,14 +9,13 @@
     "Google",
     "Chart"
   ],
-  "homepage": "https://github.com/FERNman/angular-google-charts",
+  "homepage": "https://github.com/prodyna-eudel/angular-google-charts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FERNman/angular-google-charts"
+    "url": "https://github.com/prodyna-eudel/angular-google-charts"
   },
   "bugs": {
-    "url": "https://github.com/FERNman/angular-google-charts",
-    "email": "gabriel.sperrer@gmail.com"
+    "url": "https://github.com/prodyna-eudel/angular-google-charts"
   },
   "license": "MIT",
   "author": {
